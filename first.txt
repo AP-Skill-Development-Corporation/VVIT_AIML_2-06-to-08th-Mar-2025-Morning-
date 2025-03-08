@@ -1,0 +1,2 @@
+This is my day1 session of DA workshop conducted by APSSDC.
+Working with files.working r+ mode which is used for both read&write
